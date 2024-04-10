@@ -1,0 +1,37 @@
+{
+
+    "name": "YashPayback/simple-package",
+
+    "description": "This package is just for learning purpose",
+
+    "type": "library",
+
+    "keywords": ["yii2", "user", "module"],
+
+    "license": "MIT",
+
+    "authors": [
+
+        {
+
+            "name": "yash",
+
+            "email": "yash.sarda@samarth.ac.in"
+
+        }
+
+    ],
+
+    "autoload": {
+
+        "psr-4": {
+
+            "YashPayback\\SimplePackage\\": "src/"
+
+        }
+
+    },
+
+    "require": {}
+
+}
