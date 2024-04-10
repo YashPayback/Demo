@@ -1,6 +1,6 @@
 <?php
 
-namespace YashPayback\SimplePackage\controllers;
+namespace demo\SimplePackage\controllers;
 
 use yii\web\Controller;
 

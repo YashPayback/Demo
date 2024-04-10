@@ -1,6 +1,6 @@
 <?php
 
-namespace demo\SimplePackage\Module;
+namespace demo\SimplePackage;
 /**
  * demo module definition class
  */
