@@ -1,6 +1,6 @@
 {
 
-    "name": "YashPayback/simple-package",
+    "name": "demo/simple-package",
 
     "description": "This package is just for learning purpose",
 
@@ -26,7 +26,7 @@
 
         "psr-4": {
 
-            "YashPayback\\SimplePackage\\": "src/"
+            "demo\\SimplePackage\\": "src/"
 
         }
 

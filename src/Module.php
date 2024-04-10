@@ -1,6 +1,6 @@
 <?php
 
-namespace demosaYashPayback\Module;
+namespace demo\SimplePackage\Module;
 /**
  * demo module definition class
  */
@@ -10,7 +10,7 @@ class Module extends \yii\base\Module
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'YashPayback\SimplePackage\controllers';
+    public $controllerNamespace = 'demo\SimplePackage\controllers';
 
     /**
      * {@inheritdoc}
