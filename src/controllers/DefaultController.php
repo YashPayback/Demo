@@ -15,7 +15,8 @@ class DefaultController extends Controller
      */
     public function actionIndex()
     {
-        echo "No network "; die;
+//        echo "No network "; die;
+//        hello
         return $this->render('index');
     }
 }
